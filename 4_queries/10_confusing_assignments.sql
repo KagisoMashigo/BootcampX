@@ -1,0 +1,1 @@
+SELECT id, day, chapter, name, assistance_requests.
